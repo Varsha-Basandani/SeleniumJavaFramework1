@@ -32,3 +32,11 @@
 [INFO ] 2019-11-20 18:51:13.651 [main] Log4jDemo - Navigated to google.com
 [INFO ] 2019-11-20 18:52:13.138 [main] Log4jDemo - Browser started
 [INFO ] 2019-11-20 18:52:14.753 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-20 20:25:45.354 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-20 20:25:49.440 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-20 20:28:23.168 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-20 20:28:27.654 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-20 20:33:13.415 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-20 20:33:17.123 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-20 20:47:32.017 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-20 20:47:37.243 [main] Log4jDemo - Navigated to google.com
