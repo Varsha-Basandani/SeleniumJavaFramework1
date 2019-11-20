@@ -6,12 +6,15 @@
   </listeners>
   <test thread-count="5" name="Test1(failed)">
     <classes>
-      <class name="listeners.TestNGListenerDemo">
+      <class name="test.GoogleSearch_TestNG">
         <methods>
-          <include name="test3"/>
-          <include name="test2"/>
+          <include name="setUpTest"/>
+          <include name="testRetry2"/>
+          <include name="afterMethod"/>
+          <include name="newGoogleSearch"/>
+          <include name="tearDownTest"/>
         </methods>
-      </class> <!-- listeners.TestNGListenerDemo -->
+      </class> <!-- test.GoogleSearch_TestNG -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

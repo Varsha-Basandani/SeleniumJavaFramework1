@@ -7,6 +7,8 @@
         <methods>
           <include name="setUpTest"/>
           <include name="testRetry2"/>
+          <include name="afterMethod"/>
+          <include name="newGoogleSearch"/>
           <include name="tearDownTest"/>
         </methods>
       </class> <!-- test.GoogleSearch_TestNG -->
