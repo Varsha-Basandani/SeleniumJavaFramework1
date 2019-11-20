@@ -1,0 +1,10 @@
+[TRACE] 2019-11-20 12:44:20.780 [main] Log4jDemo - This is a trace log
+[INFO ] 2019-11-20 12:44:20.782 [main] Log4jDemo - This is info message
+[ERROR] 2019-11-20 12:44:20.782 [main] Log4jDemo - This is an error message
+[WARN ] 2019-11-20 12:44:20.782 [main] Log4jDemo - This is a warning message
+[FATAL] 2019-11-20 12:44:20.782 [main] Log4jDemo - This is a fatal message
+[TRACE] 2019-11-20 12:46:30.447 [main] Log4jDemo - This is a trace log
+[INFO ] 2019-11-20 12:46:30.449 [main] Log4jDemo - This is info message
+[ERROR] 2019-11-20 12:46:30.449 [main] Log4jDemo - This is an error message
+[WARN ] 2019-11-20 12:46:30.449 [main] Log4jDemo - This is a warning message
+[FATAL] 2019-11-20 12:46:30.449 [main] Log4jDemo - This is a fatal message
