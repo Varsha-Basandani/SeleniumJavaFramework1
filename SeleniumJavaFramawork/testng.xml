@@ -7,7 +7,7 @@
 
   <test name="Test1">
     <classes>
-      <class name="test.GoogleSearch_TestNG"/>
+      <class name="test.HackweekTest"/>
        <!-- <class name="test.GoogleSearch_TestNG2">
           <methods><include name="googleSearch3"></include>
           </methods>

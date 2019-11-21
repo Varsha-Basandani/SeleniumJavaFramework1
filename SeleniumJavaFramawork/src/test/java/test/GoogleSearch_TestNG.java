@@ -34,7 +34,7 @@ public class GoogleSearch_TestNG {
 		 logger.info("Browser started");
 	}
 	
-	@Test
+	@Test(retryAnalyzer=listeners.RetryAnalyzer.class)
 	public void googleSearch()
 	{  //go to google.com
 		driver.get("https://google.com");
@@ -47,27 +47,18 @@ public class GoogleSearch_TestNG {
 		//click on search button
 		//driver.findElement(By.name("btnk")).click();
 		driver.findElement(By.name("q")).sendKeys(Keys.RETURN);
+		Assert.assertEquals("Expected title", driver.getTitle());
 		
 		}
-	@Test
-	public void DivideByZero()
-	{
-		System.out.println("Inside  DivideByZero");
-		//int i=1/0;
-	}
-	@Test(retryAnalyzer=listeners.RetryAnalyzer.class)
+	
+		@Test(retryAnalyzer=listeners.RetryAnalyzer.class)
 	public void testRetry2()
 	{   count++;
 		System.out.println("Inside testRetry2");
 		Assert.assertTrue(2<=count);
 	}
-	@Test
-	public void newGoogleSearch()
-	{
-		driver.get("https://google.com");
-		Assert.assertEquals("Expected title", driver.getTitle());
-		
-	}
+	
+	
 	
 	@AfterMethod
 	public void afterMethod(ITestResult result) throws JiraException

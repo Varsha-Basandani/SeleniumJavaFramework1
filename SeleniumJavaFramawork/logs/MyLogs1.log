@@ -1,2 +1,407 @@
 [INFO ] 2019-11-21 00:00:38.849 [main] Log4jDemo - Browser started
 [INFO ] 2019-11-21 00:00:40.543 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 00:07:59.871 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 00:08:01.679 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 12:27:10.766 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 12:27:13.588 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 12:36:19.554 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 12:36:22.502 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:39:46.271 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 12:39:49.221 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:41:29.479 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 12:41:32.142 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:50:04.372 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 12:50:07.018 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:50:07.067 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 12:50:07.108 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 12:50:08.615 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 12:50:10.347 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:50:11.827 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:50:13.496 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:51:51.958 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 12:51:55.109 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:51:55.151 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 12:51:55.192 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 12:51:56.725 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 12:51:58.356 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:51:59.676 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:52:01.307 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:56:50.065 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 12:56:52.554 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:56:52.599 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 12:56:52.638 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 12:56:54.113 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 12:56:55.770 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:56:57.544 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 12:56:59.110 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:04:53.294 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 13:04:55.913 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:04:55.955 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 13:04:55.994 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 13:04:57.640 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 13:04:59.836 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:05:01.143 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:05:02.462 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:06:57.660 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 13:07:01.308 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:07:01.352 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 13:07:01.391 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 13:07:02.883 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 13:07:04.712 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:07:06.062 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:07:07.383 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:07:53.329 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 13:07:54.864 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 13:11:10.799 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 13:11:13.354 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:11:13.397 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 13:11:13.436 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 13:11:14.950 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 13:11:16.842 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:11:18.154 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:11:19.482 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:14:57.195 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 13:14:58.653 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 13:15:04.506 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:15:04.546 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 13:15:04.586 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 13:15:06.065 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 13:15:07.611 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:15:08.910 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:15:10.197 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:17:40.096 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 13:17:41.803 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 13:17:46.342 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:17:46.400 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 13:17:46.438 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 13:17:49.997 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 13:21:33.044 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 13:21:35.044 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 13:21:39.301 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:21:39.344 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 13:21:39.385 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 13:21:40.861 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 13:28:54.969 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 13:28:57.606 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 13:28:57.652 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 13:28:57.690 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 13:28:59.127 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 13:28:59.984 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 14:34:54.365 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 14:34:57.881 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 14:34:57.924 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 14:34:57.962 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 14:34:59.863 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 14:35:04.123 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 14:36:17.943 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 14:36:20.916 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 14:36:20.965 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 14:36:21.003 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 14:36:22.564 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 14:36:24.477 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 14:36:26.057 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 14:36:27.671 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 14:37:56.084 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 14:37:57.842 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:38:03.121 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 14:38:03.160 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 14:38:03.198 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 14:38:04.714 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 14:39:03.989 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 14:39:05.431 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:39:09.994 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 14:39:10.034 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 14:39:10.071 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 14:39:13.569 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 14:45:03.817 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 14:45:05.380 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:45:07.409 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:45:09.130 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:45:10.609 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:57:14.576 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 14:57:16.087 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:57:16.141 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 14:57:20.675 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:57:20.725 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 14:57:22.528 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:57:22.573 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 14:57:24.481 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 14:57:24.524 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 14:57:29.500 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 14:57:29.539 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 14:57:29.577 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 14:57:31.165 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 14:57:31.877 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 15:19:42.036 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 15:19:43.689 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:19:43.744 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:19:46.002 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:19:46.054 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:19:47.794 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:19:47.838 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:19:49.432 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:19:49.476 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:19:53.757 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 15:19:53.796 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 15:19:53.835 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 15:19:55.473 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 15:19:56.174 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 15:52:55.318 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 15:52:57.252 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:52:57.308 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:52:59.671 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:52:59.715 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:53:01.412 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:53:01.454 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:53:03.289 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:53:03.330 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:53:07.772 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 15:53:07.810 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 15:53:07.849 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 15:53:09.311 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 15:53:10.068 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 15:55:02.341 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 15:55:03.600 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:55:03.656 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:55:08.302 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:55:08.345 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:55:10.052 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:55:10.091 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:55:12.412 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:55:12.453 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:55:17.206 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 15:55:17.247 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 15:55:17.285 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 15:55:18.787 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 15:55:19.539 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 15:56:35.843 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 15:56:37.654 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:56:37.722 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:56:40.270 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:56:40.314 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:56:41.843 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:56:41.885 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:56:43.587 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 15:56:43.629 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 15:56:47.719 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 15:56:47.758 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 15:56:47.798 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 15:56:49.296 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 15:56:49.996 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 16:03:33.719 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 16:03:35.228 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:03:35.282 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:03:37.395 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:03:37.439 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:03:39.555 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:03:39.597 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:03:41.347 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:03:41.381 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:03:45.661 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 16:03:45.700 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 16:03:45.738 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 16:03:47.257 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 16:03:47.944 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 16:14:35.731 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 16:14:37.250 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:14:37.321 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:14:39.409 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:14:39.451 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:14:41.069 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:14:41.121 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:14:42.702 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:14:42.743 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:14:48.208 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 16:14:48.248 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 16:14:48.287 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 16:14:49.797 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 16:14:50.873 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 16:17:42.306 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 16:17:43.788 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:17:43.844 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:17:47.439 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:17:47.491 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:17:49.153 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:17:49.198 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:17:50.762 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:17:50.804 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:17:54.781 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 16:17:54.823 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 16:17:54.863 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 16:17:56.435 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 16:18:00.417 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 16:46:11.517 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 16:46:13.064 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:46:13.118 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:46:15.330 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:46:15.372 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:46:17.113 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:46:17.156 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:46:18.882 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:46:18.925 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:46:22.830 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 16:46:22.867 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 16:46:22.908 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 16:46:24.511 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 16:46:26.529 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 16:53:31.216 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 16:53:33.120 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:53:33.198 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:53:35.638 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:53:35.681 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:53:37.534 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:53:37.576 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:53:39.125 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:53:39.166 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:57:01.479 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 16:57:03.235 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:57:03.314 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:57:05.743 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:57:05.785 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:57:07.382 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:57:07.429 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:57:08.998 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 16:57:09.036 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 16:57:14.221 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 16:57:14.266 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 16:57:14.306 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 16:57:15.803 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 16:57:16.555 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 17:09:13.631 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:09:15.179 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:09:15.232 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:09:17.104 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:09:17.152 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:09:18.901 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:09:18.945 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:09:21.007 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:09:21.050 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:10:07.720 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:10:09.290 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:10:09.345 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:10:11.501 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:10:11.546 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:10:13.587 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:10:13.675 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:10:15.483 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:10:15.527 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:10:57.610 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:10:59.173 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:10:59.226 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:11:01.938 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:11:01.984 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:11:03.780 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:11:03.826 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:11:05.865 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:11:05.908 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:11:10.010 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:11:10.047 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:11:10.087 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:11:11.580 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:21:33.596 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:21:35.304 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:21:35.361 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:21:39.282 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:21:39.324 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:21:40.785 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:21:40.825 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:21:42.312 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:21:42.356 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:21:46.551 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:21:46.590 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:21:46.627 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:21:48.097 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:23:52.033 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:23:53.594 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:23:53.647 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:23:55.724 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:23:55.766 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:23:57.776 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:23:57.819 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:23:59.485 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:23:59.529 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:24:03.609 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:24:03.647 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:24:03.682 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:24:05.141 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:24:50.291 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:24:51.895 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:24:51.947 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:24:54.716 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:24:54.760 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:24:56.494 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:24:56.537 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:24:58.328 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:24:58.392 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:25:02.735 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:25:02.772 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:25:02.813 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:25:04.255 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:27:25.600 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:27:27.091 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:27:27.145 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:27:29.251 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:27:29.294 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:27:31.106 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:27:31.148 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:27:32.902 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:27:32.943 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:27:37.351 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:27:37.401 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:27:37.438 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:27:38.947 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:28:42.672 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:28:44.983 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:28:45.037 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:28:47.768 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:28:47.815 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:28:49.579 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:28:49.626 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:28:51.390 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:28:51.435 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:28:55.761 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:28:55.808 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:28:55.846 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:28:57.357 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:36:55.679 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:36:57.412 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:36:57.470 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:37:01.145 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:37:01.188 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:37:02.783 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:37:02.826 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:37:04.500 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:37:04.541 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:37:08.515 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:37:08.558 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:37:08.597 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:37:10.133 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:37:11.038 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 17:38:04.651 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:38:06.205 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:38:06.259 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:38:08.548 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:38:08.591 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:38:10.605 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:38:10.647 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:38:12.473 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:38:12.519 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:38:16.790 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:38:16.826 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:38:16.866 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:38:18.524 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:38:21.518 [main] Log4jDemo - Test completed successfully
+[INFO ] 2019-11-21 17:45:01.462 [main] Log4jDemo - Browser started
+[INFO ] 2019-11-21 17:45:03.093 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:45:03.147 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:45:05.789 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:45:05.836 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:45:07.582 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:45:07.628 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:45:09.409 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2019-11-21 17:45:09.452 [main] Log4jDemo - Searched
+[INFO ] 2019-11-21 17:45:13.588 [main] Log4jDemo - Navigated to opensource-demo.orangehrmlive.com
+[INFO ] 2019-11-21 17:45:13.625 [main] Log4jDemo - entered user name
+[INFO ] 2019-11-21 17:45:13.663 [main] Log4jDemo - entered password
+[INFO ] 2019-11-21 17:45:15.163 [main] Log4jDemo - Clicked on login button
+[INFO ] 2019-11-21 17:45:15.861 [main] Log4jDemo - Test completed successfully
